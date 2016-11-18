@@ -4,7 +4,7 @@ Coding assessment
 What the program does:
 Read in the data from the two urls using  buffered reader. Read in lines and save them to variable object until a closing bracket is read. Set that object to a JSON object. Save the value of the 'id' key. That id value becomes the key for the hashmap and the entire object is the value associated with that key. 
 
-Reapeat this process for the comments and store the comments data in a seperate hashmap. 
+Repeat this process for the comments and store the comments data in a separate hashmap. 
 Create a Scanner to read in the id given by a user and save it.
 
 What I would have added:
