@@ -11,3 +11,5 @@ What I would have added:
 Because I was over my time, I was not able to code the part of the program that would have printed out the post and the comments. I would have called the get method on the hashmaps passing in the id given by the user  (perhaps add in validation of the id given). Then use the System.out.println to print out the results of get for both hashmaps. 
 I also would have properly added the JSON plug-in or jar to the project or classpath.
 Since I used Eclipse, for testing I would have created JUnit test cases. 
+
+To run this code, save it to a txt file and call it from the command line.
